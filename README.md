@@ -27,7 +27,7 @@ Libraries: numpy, scikit-learn, json, re, math
 
 🚀 How to Run
 Clone this repository:
-git clone https://github.com/yourusername/recipe-ingredient-prediction.git
+git clone https: https://github.com/Nandinim0019/Preditive-Modeling/tree/main
 cd recipe-ingredient-prediction
 
 
